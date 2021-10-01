@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo: '',
   paragraphThree: '',
   resume:
-    'https://docs.google.com/document/d/13ehKvVnRVC2LTmZV7_FrSbqfk6-Bbq2JOmTVTr_xxYU/edit?usp=sharing', // if no resume, the button will not show up
+    'https://docs.google.com/document/d/1jFirfpsmYPfIcI006IiRWtpO2kr78t2UI-tDBM9Zbu0/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
